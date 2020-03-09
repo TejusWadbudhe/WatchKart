@@ -1,7 +1,7 @@
 # WatchKart
 Try out some cool watches design on your hand
 
-|<img src="https://imgflip.com/gif/3rwdv7" width="300">|
+|<img src="https://github.com/TejusWadbudhe/WatchKart/blob/master/images/watchGIF.gif" width="300">|
 
 ##Dependencies:-
 1) Vuforia SDK
